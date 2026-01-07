@@ -1,0 +1,7 @@
+{
+  "name": "Manju AI Director",
+  "description": "An intelligent storyboard director that visualizes your scripts frame-by-frame using Gemini 3 Pro and Veo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
